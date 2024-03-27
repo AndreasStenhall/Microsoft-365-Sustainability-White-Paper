@@ -8,10 +8,10 @@ Download the Microsoft 365 Sustainability White Paper PDF: https://github.com/An
 
 **Changelog**
 
-**[Version 1.2 - March 27, 2024**
+**[Version 1.2 - March 27, 2024]**
 
 General changes
-* Changed "Office 365" to "Microsot 365 Apps".
+* Changed "Office 365" to "Microsoft 365 Apps".
 * Minor changes and updates.
   
 Sustainable co-workers and people wellbeing
