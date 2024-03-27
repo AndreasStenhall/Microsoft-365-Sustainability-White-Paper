@@ -8,6 +8,21 @@ Download the Microsoft 365 Sustainability White Paper PDF: https://github.com/An
 
 **Changelog**
 
+**[Version 1.2 - March 27, 2024**
+
+General changes
+* Changed "Office 365" to "Microsot 365 Apps".
+* Minor changes and updates.
+  
+Sustainable co-workers and people wellbeing
+* New chapter added: Accessibility: Software and Hardware.
+* New section: Copilot(s) and AI.
+
+Reducing climate impact
+* Repairability: Added sub-section: Spare parts and repair videos for Surface devices.
+* Make dynamic groups more efficient in Entra.
+
+
 **[Version 1.1 - October 8, 2023]**
 
 General changes
